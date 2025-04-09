@@ -1,5 +1,6 @@
 # ClinicalTrials MCP Server
-[![smithery badge](https://smithery.ai/badge/ClinicalTrials-mcp-server)](https://smithery.ai/server/ClinicalTrials-mcp-server)
+
+[![smithery badge](https://smithery.ai/badge/@JackKuo666/clinicaltrials-mcp-server)](https://smithery.ai/server/@JackKuo666/clinicaltrials-mcp-server)
 
 🔍 Enable AI assistants to search and access ClinicalTrials.gov data through a simple MCP interface.
 
