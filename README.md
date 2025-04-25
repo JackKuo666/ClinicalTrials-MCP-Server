@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/jackkuo666-clinicaltrials-mcp-server-badge.jpg)](https://mseep.ai/app/jackkuo666-clinicaltrials-mcp-server)
+
 # ClinicalTrials MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@JackKuo666/clinicaltrials-mcp-server)](https://smithery.ai/server/@JackKuo666/clinicaltrials-mcp-server)
